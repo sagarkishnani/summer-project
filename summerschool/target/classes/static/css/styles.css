@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Montserrat:wght@300;400;700;900&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif !important;
+}
+
+h5 {
+    font-family: 'Knewave', cursive;
+    font-size: 35px;
+    max-width: 500px;
+}
+.navbar {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: gray !important;
+    font-size: 25px;
+    padding: 5px;
+}
+
+.nav-item {
+    padding-left: 20px;
+}
+
+.nav-link:hover {
+    color: #FF5722 !important;
+    border: 1px solid #FF5722;
+    border-radius: 30px;
+}
+
+.carousel-caption {
+    text-align: left;
+    transform: translate(0px, -200px);
+}
+
+.padded {
+    padding: 50px;
+}
+.padded-top {
+    padding-top: 100px;
+}
+.padded-bottom {
+    padding-bottom: 100px;
+}
+
+.circle {
+    border-radius: 100%;
+}
+
+.active-link {
+    color: #FF5722 !important;
+    border: 1px solid #FF5722;
+    border-radius: 30px;
+}
+
+.active-link:hover {
+    background-color: #FF5722;
+    color: white !important;
+    transition-delay: 0.2s;
+}
+
+.nav-right {
+    text-align: right;
+}
+
+.description {
+    padding-top: 20px;
+    line-height: 1.9;
+}
+
+.quote {
+    background-color: #FF5722;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.opacity {
+    filter: blur(0.8);
+    background-color: lightgray !important;
+}
+
+.btn-main {
+    background-color: #FF5722;
+    color: white;
+}

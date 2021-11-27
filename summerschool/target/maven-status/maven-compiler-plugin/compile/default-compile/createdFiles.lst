@@ -1,0 +1,12 @@
+com\cursos\summerschool\modelo\Usuario.class
+com\cursos\summerschool\exception\FileNotFoundException.class
+com\cursos\summerschool\repositorio\CursoRepository.class
+com\cursos\summerschool\exception\StorageException.class
+com\cursos\summerschool\service\FileSystemStorageService.class
+com\cursos\summerschool\modelo\Curso.class
+com\cursos\summerschool\modelo\Inscripcion.class
+com\cursos\summerschool\controlador\MediaController.class
+com\cursos\summerschool\SummerschoolApplication.class
+com\cursos\summerschool\service\StorageService.class
+com\cursos\summerschool\controlador\CursoController.class
+com\cursos\summerschool\modelo\Usuario$Rol.class
